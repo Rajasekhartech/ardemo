@@ -1,2 +1,0 @@
-# augumentedReality
-AR website demo
